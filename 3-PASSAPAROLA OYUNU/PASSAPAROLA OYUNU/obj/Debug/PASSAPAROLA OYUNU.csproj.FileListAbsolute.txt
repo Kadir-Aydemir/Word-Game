@@ -1,0 +1,10 @@
+C:\Users\msı\source\repos\PASSAPAROLA OYUNU\PASSAPAROLA OYUNU\bin\Debug\PASSAPAROLA OYUNU.exe.config
+C:\Users\msı\source\repos\PASSAPAROLA OYUNU\PASSAPAROLA OYUNU\bin\Debug\PASSAPAROLA OYUNU.exe
+C:\Users\msı\source\repos\PASSAPAROLA OYUNU\PASSAPAROLA OYUNU\bin\Debug\PASSAPAROLA OYUNU.pdb
+C:\Users\msı\source\repos\PASSAPAROLA OYUNU\PASSAPAROLA OYUNU\obj\Debug\PASSAPAROLA OYUNU.csprojAssemblyReference.cache
+C:\Users\msı\source\repos\PASSAPAROLA OYUNU\PASSAPAROLA OYUNU\obj\Debug\PASSAPAROLA_OYUNU.Form1.resources
+C:\Users\msı\source\repos\PASSAPAROLA OYUNU\PASSAPAROLA OYUNU\obj\Debug\PASSAPAROLA_OYUNU.Properties.Resources.resources
+C:\Users\msı\source\repos\PASSAPAROLA OYUNU\PASSAPAROLA OYUNU\obj\Debug\PASSAPAROLA OYUNU.csproj.GenerateResource.cache
+C:\Users\msı\source\repos\PASSAPAROLA OYUNU\PASSAPAROLA OYUNU\obj\Debug\PASSAPAROLA OYUNU.csproj.CoreCompileInputs.cache
+C:\Users\msı\source\repos\PASSAPAROLA OYUNU\PASSAPAROLA OYUNU\obj\Debug\PASSAPAROLA OYUNU.exe
+C:\Users\msı\source\repos\PASSAPAROLA OYUNU\PASSAPAROLA OYUNU\obj\Debug\PASSAPAROLA OYUNU.pdb
